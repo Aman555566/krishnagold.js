@@ -1,6 +1,6 @@
 const password = prompt("Enter password:");
 
-if (password === "@yourfavniggahere") {
+if (password === "1") {
     const tapButton = () => {
         const button = document.querySelector('div._tapArea_njdmz_15'); // Replace this if necessary
         if (button) {
